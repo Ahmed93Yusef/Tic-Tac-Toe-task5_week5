@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tic_tac_task5</string>
+    <string name="tic">Tic</string>
+    <string name="tac">Tac</string>
+    <string name="toe">Toe</string>
+    <string name="reset">Reset</string>
+</resources>
